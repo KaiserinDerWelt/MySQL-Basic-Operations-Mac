@@ -1,0 +1,4 @@
+
+/* V.8.0.16*/
+
+sudo /usr/local/mysql/support-files/mysql.server restart
