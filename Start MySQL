@@ -1,0 +1,3 @@
+/* MySQL V.8.016*/
+
+sudo /usr/local/mysql/support-files/mysql.server start
