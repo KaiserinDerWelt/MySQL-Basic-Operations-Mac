@@ -1,1 +1,6 @@
-RANT ALL ON *.* TO 'USER'@'localhost';
+GRANT ALL ON *.* TO 'USER'@'localhost';
+
+
+/*To a specific database and user: */
+
+GRANT ALL PRIIVLEGES ON 'milagroscaninos'.* TO 'MariannaLUNADM'@'localhost';
